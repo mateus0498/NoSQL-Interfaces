@@ -1,9 +1,9 @@
 # NoSQL Interfaces
 
-Este diretório contém dois projetos [.NET Core](https://dotnet.microsoft.com/) de interfaces de gerenciamento de bancos NoSQL (MongoDB e ElasticSearch).
+Este diretÃ³rio contÃ©m dois projetos [.NET Core](https://dotnet.microsoft.com/) de interfaces de gerenciamento de bancos NoSQL (MongoDB e ElasticSearch).
 
 ## Como compilar esses projetos?
 
-Para compilar os projetos, é necessário [instalar a SDK do .NET Core](https://dotnet.microsoft.com/download). Em seguida, clone este repositório, navegue até cada uma das pastas dos projetos (elasticSearch e mongoDB) e executar o comando `dotnet run`.
+Para compilar os projetos, Ã© necessÃ¡rio [instalar a SDK do .NET Core](https://dotnet.microsoft.com/download). Em seguida, clone este repositÃ³rio, navegue atÃ© cada uma das pastas dos projetos (elasticSearch e mongoDB) e execute o comando `dotnet run`.
 
-Caso queira fazer alguma alteração nos projetos, basta utilizar o editor de texto de sua preferência.
+Caso queira fazer alguma alteraÃ§Ã£o nos projetos, basta utilizar o editor de texto de sua preferÃªncia.
